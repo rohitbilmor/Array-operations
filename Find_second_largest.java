@@ -1,3 +1,4 @@
+//Finds the second largest element form an array
 package com.src1;
 
 public class Find_second_largest {
