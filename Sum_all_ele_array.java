@@ -1,3 +1,4 @@
+//this program will prints the sum of all elements in the array.
 package com.src1;
 
 public class Sum_all_ele_array {
